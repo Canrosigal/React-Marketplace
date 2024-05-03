@@ -45,3 +45,7 @@
   margin: 10px;
   cursor: pointer;
 }
+.warning {
+  color: red;
+  font-family: "Courier New", Courier, monospace;
+}

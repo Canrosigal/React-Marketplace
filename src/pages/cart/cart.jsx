@@ -39,7 +39,7 @@ export const Cart = () => {
           </button>
         </div>
       ) : (
-        <h1> Your Shopping Cart is Empty</h1>
+        <h1 className="warning"> Keranjang Anda Masih Kosong</h1>
       )}
     </div>
   );
